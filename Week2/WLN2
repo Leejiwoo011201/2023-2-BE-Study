@@ -40,21 +40,10 @@
     
   4. 연결을 닫거나 다른 요청을 위해 재사용.
     
-
-  ![imagesrc=https3A2F2Fprodfilessecures3uswest2amazonawscom2F81276f83e80d4730b0ae1b519fac76482F400ed0474bf541a68a19f873759898a32FUntitledpng](file:///C:/Users/jiwoo/Downloads/[기초%20백엔드%20스터디%202주차%20과제]/image_src=https_3A_2F_2Fprod-files-secure.s3.us-west-2.amazonaws.com_2F81276f83-e80d-4730-b0ae-1b519fac7648_2F400ed047-4bf5-41a6-8a19-f873759898a3_2FUntitled.png?msec=1695732205551)
-
-                 연결 및 메세지 전송
-
-![imagesrc=https3A2F2Fprodfilessecures3uswest2amazonawscom2F81276f83e80d4730b0ae1b519fac76482F60ba0af69254442ba7c9e5d848e0f3af2FUntitledpng](file:///C:/Users/jiwoo/Downloads/[기초%20백엔드%20스터디%202주차%20과제]/image_src=https_3A_2F_2Fprod-files-secure.s3.us-west-2.amazonaws.com_2F81276f83-e80d-4730-b0ae-1b519fac7648_2F60ba0af6-9254-442b-a7c9-e5d848e0f3af_2FUntitled.png?msec=1695732205550)
-
-연결 종료
-
 - ## HTTP Message
   
   HTTP Message > request(요청) + response(응답)
   
-
-![imagesrc=https3A2F2Fprodfilessecures3uswest2amazonawscom2F81276f83e80d4730b0ae1b519fac76482Fb2821611eb8241ec90e6ee225ad29b092FUntitledpng](file:///C:/Users/jiwoo/Downloads/[기초%20백엔드%20스터디%202주차%20과제]/image_src=https_3A_2F_2Fprod-files-secure.s3.us-west-2.amazonaws.com_2F81276f83-e80d-4730-b0ae-1b519fac7648_2Fb2821611-eb82-41ec-90e6-ee225ad29b09_2FUntitled.png?msec=1695732205551)
 
 - ## HTTP Method
   
